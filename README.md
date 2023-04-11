@@ -1,6 +1,7 @@
 # go_app_helm_chart
 Creating the helm chart for the go app to deploy in the kubernetes<br />
 the OS used is macOS<br />
+To create the GO app and build reference https://github.com/aksrao/go-app-kubernetes <br />
 
 This project goal is to create a helm chart and deployment in the kubernetes<br />
 
